@@ -10,8 +10,8 @@ root.render(
   <BrowserRouter>
     <Routes>
       <Route path="/" element={<Home />} />
-      <Route path="/Pricing" element={<Pricing />} />
       <Route path="/Courses" element={<Courses />} />
+      <Route path="/Pricing" element={<Pricing />} />
     </Routes>
   </BrowserRouter>
 );

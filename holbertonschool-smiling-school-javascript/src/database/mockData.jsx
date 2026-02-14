@@ -36,6 +36,6 @@ export const mockData = [
         name: 'Henry Hughes',
         quote: '« 24h smiles » winner ',
         year: '2016-2019'
-       
+        
     },
 ];
